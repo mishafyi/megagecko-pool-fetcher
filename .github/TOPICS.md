@@ -23,8 +23,8 @@ Add these topics to your GitHub repository to improve discoverability:
 - `solana-ecosystem`
 - `solana-arbitrage`
 - `solana-pools`
-- `solana-liquidity`
 - `trading-strategies`
+- `defi`
 
 ## How to Add Topics
 
