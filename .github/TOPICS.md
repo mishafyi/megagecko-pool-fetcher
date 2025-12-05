@@ -14,25 +14,17 @@ Add these topics to your GitHub repository to improve discoverability:
 - `nodejs`
 
 ## Secondary Topics
-- `crypto-trading`
 - `automation`
 - `pool-discovery`
 - `market-analysis`
-- `solana-dex`
 - `raydium`
 - `orca`
 - `meteora`
-- `phoenix-dex`
 - `liquidity-analysis`
-- `price-discovery`
 - `on-chain-data`
 - `solana-ecosystem`
 - `defi-tools`
 - `trading-strategies`
-- `raydium`
-- `orca`
-- `meteora`
-- `phoenix-dex`
 
 ## How to Add Topics
 
