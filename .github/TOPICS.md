@@ -4,26 +4,26 @@ Add these topics to your GitHub repository to improve discoverability:
 
 ## Primary Topics
 - `solana`
-- `defi`
+- `solana-dex`
+- `solana-trading`
+- `solana-defi`
 - `arbitrage`
 - `trading-bot`
 - `liquidity-pools`
 - `dex`
 - `geckoterminal`
-- `typescript`
-- `nodejs`
 
 ## Secondary Topics
-- `automation`
 - `pool-discovery`
-- `market-analysis`
 - `raydium`
 - `orca`
 - `meteora`
+- `phoenix-dex`
 - `liquidity-analysis`
-- `on-chain-data`
 - `solana-ecosystem`
-- `defi-tools`
+- `solana-arbitrage`
+- `solana-pools`
+- `solana-liquidity`
 - `trading-strategies`
 
 ## How to Add Topics
